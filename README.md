@@ -15,6 +15,10 @@ If you are developing a production application, we recommend using TypeScript an
 
 Follow these steps to install and set up your Vite + React project with Tailwind CSS, Material UI components, Material UI icons, and Axios.
 
+# Live link
+
+https://weatherappdhaka.netlify.app/
+
 ## Prerequisites
 
 Ensure you have the following installed:
