@@ -92,3 +92,18 @@ yarn dev
 The app will be available at `http://localhost:5173/`.
 
 You're all set! 🎉
+
+# Why React, Material-UI, Material-UI Icons, Tailwind CSS, and Axios?
+
+In this project, I chose **React**, **Material-UI**, **Material-UI Icons**, **Tailwind CSS**, and **Axios** for the following reasons:
+
+- **React**: It’s fast, flexible, and perfect for building interactive UIs. Its component-based structure helps keep things organized and reusable.
+- **Material-UI**: Provides a set of pre-built, customizable components based on Google’s Material Design, which makes creating a consistent, modern UI super easy. It’s also responsive and accessible.
+
+- **Material-UI Icons**: It offers a large collection of easy-to-use icons that can be easily customized and styled, helping enhance the UI without needing to search for external resources.
+
+- **Tailwind CSS**: A utility-first CSS framework that lets me style elements quickly using simple classes. It’s highly customizable, efficient, and great for building responsive designs without extra custom CSS.
+
+- **Axios**: A lightweight and easy-to-use library for making HTTP requests. It simplifies the process of fetching data and handling responses, with built-in features like interceptors and error handling.
+
+Together, these tools let me build fast, beautiful, and maintainable apps with a smooth development process.
