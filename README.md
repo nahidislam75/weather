@@ -22,6 +22,22 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (LTS recommended)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
+## First
+
+```
+npm i
+
+npm run dev
+```
+
+then
+
+```
+npm run build
+
+npm start
+```
+
 ## Step 1: Create a Vite + React Project
 
 ```sh
